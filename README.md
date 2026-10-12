@@ -4,7 +4,7 @@
 ## Project Overview
 A 3D mechanical CAD assembly of a high-bypass jet engine nacelle and turbine fan section, developed in Autodesk Inventor. This project highlights surface modeling techniques and rotational assembly constraints relevant to aerospace propulsion systems.
 
-![Jet Engine Render](jet-engine-render.png)
+![Jet Engine Render](Jet_engine_assembly.png)
 
 ## Technical Details
 * **Software:** Autodesk Inventor Professional
